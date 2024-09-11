@@ -20,7 +20,6 @@ Run server
 ```
 python manage.py runserver
 ```
-## Testing api endpoints 
-Register user 
+## Upload resume 
 url -> http://localhost:8000/api/extract_resume  
 In postman go to form_data and upload file with resume as key.
