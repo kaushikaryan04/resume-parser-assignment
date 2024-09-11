@@ -2,5 +2,5 @@ from django.urls import path
 from .views import UploadView
 
 urlpatterns = [
-    path('', UploadView )
+    path('api/extract_resume', UploadView )
 ]
